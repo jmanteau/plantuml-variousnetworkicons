@@ -99,7 +99,7 @@ convertpng2sprites:
 
 ## Create the listing png with all the sprites
 createlisting:
-	java -Djava.awt.headless=true -jar $(PLANTUML_BIN) -tpng listing.puml -o listing.png; \
+	java -Djava.awt.headless=true -jar $(PLANTUML_BIN) -tpng listing/listing.puml ; \
 
 	 
         

@@ -1,6 +1,6 @@
 @startuml
 
-!include plantuml-variousnetworkicons.puml
+!include https://raw.githubusercontent.com/jmanteau/plantuml-variousnetworkicons/master/plantuml-variousnetworkicons.puml
 
 listsprites
 
