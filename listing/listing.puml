@@ -1,0 +1,7 @@
+@startuml
+
+!include plantuml-variousnetworkicons.puml
+
+listsprites
+
+@enduml
