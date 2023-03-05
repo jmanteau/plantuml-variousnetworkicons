@@ -19,3 +19,4 @@ All the following icons are owned by their respective parties:
 
 * [Netbox](https://github.com/netbox-community) for netbox.png
 * [Arista](https://www.arista.com/) for aristacvp.png
+* [Red Hat](https://www.redhat.com/en/technologies/management/ansible) for ansible.png
